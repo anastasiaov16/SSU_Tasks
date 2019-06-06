@@ -1,0 +1,14 @@
+C:\Users\OvcharovaAA\source\repos\SGU_OvcharovaAA_Task2\SGU_OvcharovaAA_Task2\bin\Debug\SGU_OvcharovaAA_Task2.exe.config
+C:\Users\OvcharovaAA\source\repos\SGU_OvcharovaAA_Task2\SGU_OvcharovaAA_Task2\bin\Debug\SGU_OvcharovaAA_Task2.exe
+C:\Users\OvcharovaAA\source\repos\SGU_OvcharovaAA_Task2\SGU_OvcharovaAA_Task2\bin\Debug\SGU_OvcharovaAA_Task2.pdb
+C:\Users\OvcharovaAA\source\repos\SGU_OvcharovaAA_Task2\SGU_OvcharovaAA_Task2\obj\Debug\SGU_OvcharovaAA_Task2.csprojResolveAssemblyReference.cache
+C:\Users\OvcharovaAA\source\repos\SGU_OvcharovaAA_Task2\SGU_OvcharovaAA_Task2\obj\Debug\SGU_OvcharovaAA_Task2.csproj.CoreCompileInputs.cache
+C:\Users\OvcharovaAA\source\repos\SGU_OvcharovaAA_Task2\SGU_OvcharovaAA_Task2\obj\Debug\SGU_OvcharovaAA_Task2.exe
+C:\Users\OvcharovaAA\source\repos\SGU_OvcharovaAA_Task2\SGU_OvcharovaAA_Task2\obj\Debug\SGU_OvcharovaAA_Task2.pdb
+C:\Users\Александр\Downloads\repos\SGU_OvcharovaAA_Task2\SGU_OvcharovaAA_Task2\bin\Debug\SGU_OvcharovaAA_Task2.exe.config
+C:\Users\Александр\Downloads\repos\SGU_OvcharovaAA_Task2\SGU_OvcharovaAA_Task2\bin\Debug\SGU_OvcharovaAA_Task2.exe
+C:\Users\Александр\Downloads\repos\SGU_OvcharovaAA_Task2\SGU_OvcharovaAA_Task2\bin\Debug\SGU_OvcharovaAA_Task2.pdb
+C:\Users\Александр\Downloads\repos\SGU_OvcharovaAA_Task2\SGU_OvcharovaAA_Task2\obj\Debug\SGU_OvcharovaAA_Task2.csprojAssemblyReference.cache
+C:\Users\Александр\Downloads\repos\SGU_OvcharovaAA_Task2\SGU_OvcharovaAA_Task2\obj\Debug\SGU_OvcharovaAA_Task2.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Downloads\repos\SGU_OvcharovaAA_Task2\SGU_OvcharovaAA_Task2\obj\Debug\SGU_OvcharovaAA_Task2.exe
+C:\Users\Александр\Downloads\repos\SGU_OvcharovaAA_Task2\SGU_OvcharovaAA_Task2\obj\Debug\SGU_OvcharovaAA_Task2.pdb
